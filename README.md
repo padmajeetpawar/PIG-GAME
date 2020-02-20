@@ -30,5 +30,5 @@ A Simple Multiplayer PIG GAME designed using JavaScript and HTML
 
 ![alt text](screenshots/twodice.png  "Two Dice")
 
-![alt text](screenshots/winnee.png  "Winner")
+![alt text](screenshots/winner.png  "Winner")
 
