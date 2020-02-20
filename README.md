@@ -23,3 +23,12 @@ A Simple Multiplayer PIG GAME designed using JavaScript and HTML
 4. After Cliking On New Game button new game will start resetting the scores to zero.
 
 # Game Screenshots
+
+![alt text](screeshots/screenshots/home.png  "Home Page")
+
+![alt text](screeshots/screenshots/onedice.png  "One Dice")
+
+![alt text](screeshots/screenshots/twodice.png  "Two Dice")
+
+![alt text](screeshots/screenshots/winnee.png  "Winner")
+
