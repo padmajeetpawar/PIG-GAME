@@ -24,11 +24,11 @@ A Simple Multiplayer PIG GAME designed using JavaScript and HTML
 
 # Game Screenshots
 
-![alt text](screeshots/screenshots/home.png  "Home Page")
+![alt text](screenshots/home.png  "Home Page")
 
-![alt text](screeshots/screenshots/onedice.png  "One Dice")
+![alt text](screenshots/onedice.png  "One Dice")
 
-![alt text](screeshots/screenshots/twodice.png  "Two Dice")
+![alt text](screenshots/twodice.png  "Two Dice")
 
-![alt text](screeshots/screenshots/winnee.png  "Winner")
+![alt text](screenshots/winnee.png  "Winner")
 
